@@ -3,7 +3,7 @@
   "vm_name": "ethos129",
   "cpus": "1",
   "disk_size": "131072",
-  "iso_checksum": "2d28ba24516ad534955e60304799519503ff142f",
+  "iso_checksum": "f919362f9761cd98509cc4b5c5abf004e38df520",
   "iso_checksum_type": "sha1",
   "iso_name": "ethos-1.2.9.img",
   "iso_url": "http://ethosdistro.com/ethos-1.2.9.img",
